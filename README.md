@@ -14,14 +14,7 @@ https://devansh934.github.io/TypeTest/
 ## 🖼️ Screenshot
 > *(Add a screenshot of the app UI below)*
 
-![TypeTest Screenshot](./screenshot.png)
-
-📌 **How to add the screenshot**
-1. Open the live site.
-2. Take a screenshot of the UI.
-3. Save it as `screenshot.png`.
-4. Place it in the root folder of the project.
-5. Commit and push it.
+![TypeTest Screenshot](<img width="1900" height="880" alt="Screenshot 2025-12-27 004924" src="https://github.com/user-attachments/assets/a3e47f90-2fd8-401b-8eb8-c6bfe1c1b924" />)
 
 ---
 
@@ -41,11 +34,11 @@ https://devansh934.github.io/TypeTest/
 ## 📊 Typing Speed Calculation
 The application uses **professional Net WPM scoring**, ensuring accuracy is factored in.
 
+**Gross WPM**
+
 (Total Characters / 5) / Time (minutes)
 
-
 **Net WPM**
-
 
 Gross WPM − (Errors / Time (minutes))
 
@@ -71,17 +64,16 @@ TypeTest/
 ├── screenshot.png
 └── README.md    # Project documentation
 
+
 ⚙️ Run Locally
 
 Clone the repository:
 
 git clone https://github.com/devansh934/TypeTest.git
 
-
 Navigate to the project:
 
 cd TypeTest
-
 
 Open index.html in your browser.
 
@@ -92,11 +84,3 @@ Devansh Patel
 GitHub: @devansh934
 
 If you liked this project, consider giving it a ⭐ — it really helps!
-
-🚀 Push README to GitHub
-git add README.md screenshot.png
-git commit -m "Add professional README with screenshot"
-git push
-
-
----
