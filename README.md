@@ -14,7 +14,8 @@ https://devansh934.github.io/TypeTest/
 ## 🖼️ Screenshot
 > *(Add a screenshot of the app UI below)*
 > 
-<img width="1920" height="933" alt="Screenshot (315)" src="https://github.com/user-attachments/assets/7c7ecc2e-5397-4363-a6bb-03da1b301d9c" />
+<img width="1900" height="880" alt="Screenshot 2025-12-27 004924" src="https://github.com/user-attachments/assets/89262895-e5f4-44dd-bf76-fa864ff3e430" />
+
 
 
 ---
