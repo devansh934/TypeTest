@@ -7,7 +7,7 @@
 
 ## 🚀 Live Demo
 
-[![Live Demo](https://img.shields.io/badge/demo-online-blue)](https://devansh934.github.io/TypeTest/)
+[Live Demo: TypeTest](https://devansh934.github.io/TypeTest/)
 
 
 ---
