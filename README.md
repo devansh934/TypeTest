@@ -12,7 +12,6 @@ https://devansh934.github.io/TypeTest/
 ---
 
 ## 🖼️ Screenshot
-> *(Add a screenshot of the app UI below)*
 > 
 <img width="1900" height="880" alt="Screenshot 2025-12-27 004924" src="https://github.com/user-attachments/assets/89262895-e5f4-44dd-bf76-fa864ff3e430" />
 
@@ -60,10 +59,15 @@ This ensures realistic and fair typing speed results.
 ## 📂 Project Structure
 ```text
 TypeTest/
+
 ├── index.html   # Main UI and structure
+
 ├── style.css    # Dark-mode styling and animations
+
 ├── script.js    # Typing logic, WPM calculation, state handling
+
 ├── screenshot.png
+
 └── README.md    # Project documentation
 
 
